@@ -430,7 +430,7 @@ nav ul{
 .text{
 	position: absolute;
 	top:1168px;
-	left: 23%;
+	left: 21%;
 	color:#fff;
 	float: none;
 	pointer-events: none;
@@ -480,7 +480,7 @@ nav ul{
 }
 .viratimg h3{
 	position: relative;
-	font-size: 31px;
+	font-size: 27px;
 	letter-spacing: 1px;
 }
 .viratimg h6{
