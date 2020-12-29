@@ -281,6 +281,9 @@ nav li{
 	width: 100%;
 	color: #3cded3;
 }
+.footer-left a{
+	color: #3cded3;
+}
 .term:hover{
 	color: #ff00ff;
 }
