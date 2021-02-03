@@ -361,8 +361,8 @@ nav li{
 @media (max-width: 1050px){
 
 header{
-   background-image: none;
-   background-color: #3cded3;
+   background: url("../images/giphy.jpg");
+
     width: 100%;
 	height: 1660px;
 }
