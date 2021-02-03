@@ -362,7 +362,7 @@ nav li{
 
 header{
    background: url("../images/giphy.gif");
-
+background-size: cover;
     width: 100%;
 	height: 1660px;
 }
