@@ -247,7 +247,12 @@ nav li{
 	font-size: 16px;
 	margin: 10px 0;
 }
-
+#quote{
+	position: relative;
+	top: -275px;
+	font-size: 1px;
+	visibility: hidden;
+}
 
 /*Section4 "Contact" */
 
