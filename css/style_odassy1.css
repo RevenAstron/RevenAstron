@@ -16,6 +16,7 @@ header{
 	background-size: cover;
 	background-attachment: fixed;
 	margin-bottom: -12px;
+	-webkit-tap-highlight-color: transparent;
 }
 .me{
 	display: none;
@@ -92,6 +93,14 @@ nav{
 
 .black{
 	background: black;
+}
+.black11{
+	opacity: 0;
+	transition-delay: 4s ease;
+}
+.black111{
+	opacity: 100;
+	transition-delay: 4s ease;
 }
 nav li{
 	display: inline-block;
@@ -215,6 +224,13 @@ nav li{
 	border-radius: 0 50px 0 50px;
 	text-align: justify;
 }
+#quote{
+	position: relative;
+	top: -280px;
+	font-size: 10px;
+	visibility: hidden;
+}
+
 
 
 /*Section3 "Virat" */
