@@ -98,6 +98,10 @@ nav{
 	opacity: 0;
 	transition-delay: 4s ease;
 }
+.black11:hover{
+	opacity: 100;
+	transition-delay: 4s ease;
+}
 .black111{
 	opacity: 100;
 	transition-delay: 4s ease;
@@ -201,7 +205,7 @@ nav li{
 .midway{
 	display: flex;
 	flex-direction: column;
-	background: linear-gradient(#3cded3, #ff00ff);
+	background: url("https://www.wallpapertip.com/wmimgs/171-1710812_forest-wallpaper-4k.jpg");
 	justify-content: center;
 	margin-bottom: 3.5px;
 }
