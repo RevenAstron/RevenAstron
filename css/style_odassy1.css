@@ -206,6 +206,9 @@ nav li{
 	display: flex;
 	flex-direction: column;
 	background: url("https://www.wallpapertip.com/wmimgs/171-1710812_forest-wallpaper-4k.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 	justify-content: center;
 	margin-bottom: 3.5px;
 }
