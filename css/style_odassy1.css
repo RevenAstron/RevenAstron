@@ -521,6 +521,9 @@ nav ul{
 }
 .midway{
 	background: url("../images/snowtree.jpg");
+        background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 }
 .inmid{
 	width: 75%;
