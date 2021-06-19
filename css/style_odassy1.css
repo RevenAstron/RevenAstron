@@ -520,7 +520,7 @@ nav ul{
 	font-size: 18px;
 }
 .midway{
-	background: linear-gradient(45deg, #3cded3,#ff00ff, #ff00ff);
+	background: url("../images/snowtree.jpg");
 }
 .inmid{
 	width: 75%;
