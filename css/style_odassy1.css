@@ -388,7 +388,9 @@ background-size: cover;
     width: 100%;
 	height: 1660px;
 }
-
+body{
+     user-select: none;
+}
 .black{
 	background-color: green; 
 }
