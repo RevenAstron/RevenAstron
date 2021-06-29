@@ -2,6 +2,8 @@
 <html>
 <head>
 	<title>Space odassy</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	 <link rel="stylesheet" type="text/css" href="css/style_odassy1.css">
      <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -19,12 +21,12 @@
 					<li><a href="#wrapper">HOME</a></li>
 					<li><a href="#about">ABOUT</a></li>
 					<li><a href="#quote">QUOTES</a></li>
-					<li><a href="#CONTACT">CONTACT</a></li>
+					<li class="c"><a href="#CONTACT">CONTACT</a></li>
 				</ul>
 				
 			</nav>
 		
-		<img class="me" src="images/imgme2.jpg" width="100%" object-fit= "cover">
+		<img class="me" src="images/imgmer.jpg" width="100%" object-fit= "cover">
 			<div class="text">
 					<h1>Nirmal's <br>Rough  Draft</h1>
 				    <h2>"And you think life takes more than it gives, but not today.<br> Today it's giving us something. It is giving us a chance."</h2>
@@ -91,9 +93,9 @@ But thinks were changed, me too. now I can't even see those pictures. haha! what
 </div><img class="black" src="images/black.jpg" width="100%" object-fit= "cover">
 
 <div class="contact" id="CONTACT">
-	<h1>DON'T MISS ANYTHING</h1><hr width="5%" color="blue">
+	<h1>LET'S KEEP IN TOUCH</h1><hr width="5%" color="blue">
 	
-		<div class="join"><span>Join us on</span></div>
+		<div class="join"><span>Follow me on</span></div>
 	<section class="social2">
 	<ul>
 		<li><a target="_blank" href="https://www.facebook.com/llamrin12" class="fb"><span>Facebook</span></a></li>
@@ -124,7 +126,7 @@ But thinks were changed, me too. now I can't even see those pictures. haha! what
   else if ($(window).scrollTop() < 2760){
      $(".home2").addClass("black");
   }
-  if ($(window).scrollTop() > 650){
+  if ($(window).scrollTop() > 600){
      $(".home2").addClass("black11");
   }
   else if ($(window).scrollTop() < 2600){
@@ -138,9 +140,53 @@ But thinks were changed, me too. now I can't even see those pictures. haha! what
   }
 });
 //////////////////////////////////////////////////////////////////
-	
-
-
+$(window).scroll(function(){
+  if ($(window).scrollTop() < 600){
+     $(".h").addClass("m1");
+  }
+  else if ($(window).scrollTop() > 600){
+     $(".h").removeClass("m1");
+  }
+  if ($(window).scrollTop() > 600){
+     $(".a").addClass("m1");
+  }
+  else if ($(window).scrollTop() < 600){
+     $(".a").removeClass("m1");
+  }
+  if ($(window).scrollTop() < 600){
+     $(".a").removeClass("m1");
+  }
+  else if ($(window).scrollTop() > 2560){
+     $(".a").removeClass("m1");
+  }
+  if ($(window).scrollTop() > 2560){
+     $(".q").addClass("m1");
+  }
+  else if ($(window).scrollTop() < 2560){
+     $(".q").removeClass("m1");
+  }
+  if ($(window).scrollTop() < 2560){
+     $(".q").removeClass("m1");
+  }
+  else if ($(window).scrollTop() >  4260){
+     $(".q").removeClass("m1");
+  }
+  if ($(window).scrollTop() > 4260){
+     $(".c").addClass("m1");
+  }
+  else {
+    $(".c").removeClass("m1");
+  }
+});	
+/////////////////////
+$(window).scroll(function(){
+  if ($(window).scrollTop() > 4){
+     $(".footer-center").addClass("pink");
+  }
+  else {
+    $(".footer-center").removeClass("pink");
+  }
+});
 /////////////////////////////////////////////////////////////////
 	$(function () {
   "use strict";
