@@ -635,7 +635,7 @@ nav ul li{
 .essay::after{
 	background: white;
 	width: 3px;
-	height: 123px;
+	height: 114px;
 	left: 50%;
 }
 .passion{
@@ -656,7 +656,7 @@ nav ul li{
 	margin-bottom: 3px; 
 }
 .contact h1{
-	padding-top: 50px; 
+	padding-top: 44px; 
 	font-size: 25px;
 	margin-bottom: 11px;
 }
@@ -664,7 +664,7 @@ nav ul li{
 	margin-bottom: 17px;
 }
 .join{
-	font-size: 20px;
+	font-size: 14px;
 	padding-top: 0;
 }
 
@@ -695,7 +695,7 @@ nav ul li{
 	padding: 0;
 }
 .social2 span{
-	font-size: 17px;
+	font-size: 13px;
 	padding: 5px;
 	border-right: none;
 }
