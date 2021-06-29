@@ -5,6 +5,7 @@ body{
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	overflow-x: hidden;
 }
 
 /*Section1 "Home" */
@@ -134,7 +135,7 @@ nav li{
 	font-family: Times New Roman;
 	position: absolute;
 	top:35%;
-	left: 70%;
+	left: 60%;
 	color:#fff;
 	float: right;
 	pointer-events: none;
