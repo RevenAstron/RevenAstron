@@ -429,7 +429,7 @@ nav ul li{
 	display: block;
 	font-size: 20px;
 	color: #fff;
-	font-family: play, arial, sans-serif;
+	font-family:'Red Rose', cursive;
 	position: fixed;
 	margin-left: 34%;
 	margin-top: -45px;
@@ -463,7 +463,7 @@ nav ul li{
 }
 .home2 a{
 	font-size: 16px;
-	font-family:'Gradstander', cursive;
+	font-family:'Antonio', sans-serif;
 }
 .home2 a:hover{
 	color: violet;
@@ -476,7 +476,7 @@ nav ul li{
      display: none;
 }
 .ra-btn span{
-	font-family:'Oswald', sans-serif;
+	font-family:'Red Rose', cursive;
 	text-decoration: none;
 	display: block;
 	padding: 10px 33px 13px;
