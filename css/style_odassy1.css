@@ -609,6 +609,7 @@ nav ul li{
 .social2 ul{
 	list-style: none;
 	text-align: center;
+	padding-top:14px;
 }
 .social2 li{
 	display: inline-block;
@@ -661,7 +662,8 @@ nav ul li{
 	margin-bottom: 11px;
 }
 .contact hr{
-	margin-bottom: 17px;
+	margin-bottom: 23px;
+	height:1px;
 }
 .join{
 	font-size: 14px;
