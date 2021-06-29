@@ -253,6 +253,9 @@ nav li{
 	text-align: center;
 	color: white;
 }
+.virat{
+	display:none;
+}
 .viratimg h3{
 	font-size: 41px;
 	margin: 20px 0px;
