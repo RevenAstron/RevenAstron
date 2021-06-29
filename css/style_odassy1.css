@@ -134,7 +134,7 @@ nav li{
 	font-family: Times New Roman;
 	position: absolute;
 	top:35%;
-	left: 14%;
+	left: 30%;
 	color:#fff;
 	float: right;
 	pointer-events: none;
@@ -397,7 +397,7 @@ header{
    background-color: #3cc9de;
    background-size: cover;
     width: 100%;
-    height: 690px;
+    height: 600px;
 }
 
 .black{
@@ -484,7 +484,7 @@ nav ul li{
 .text{
 	position: absolute;
 	top:0px;
-	left: 0px;
+	left: -7px;
 	float: none;
 	pointer-events: none;
 	text-align: center;
@@ -493,7 +493,7 @@ nav ul li{
 .text h1{
 	font-style: italic;
 	font-size: 33px;
-	margin-left: 61px;
+	margin-left: 70px;
 	line-height: 40px;
 }
 .me{
@@ -512,7 +512,7 @@ nav ul li{
 	font-style: italic;
 	font-family:arial;
 	font-size: 6px;
-	margin: -7px 0 30px 51px;
+	margin: -7px 0 30px 60px;
 	line-height: 10px;
 }.social{
 	z-index: 1;
@@ -560,7 +560,7 @@ nav ul li{
 	width: 75%;
 	background: white;
 	margin-left: 13%;
-	margin-top:60px; 
+	margin-top:40px; 
 	border: solid transparent;
 	border-radius: 0 50px 0 50px;
 	color: black;
@@ -631,7 +631,7 @@ nav ul li{
 }
 .passion{
 	margin-top:50px;
-	margin-bottom: 5px; 
+	margin-bottom: 0px; 
 	font-size:25px;
 }
 .essay{
