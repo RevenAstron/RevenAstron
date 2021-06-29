@@ -550,7 +550,7 @@ nav ul li{
 }
 .viratimg h3{
 	position: absolute;
-	font-size: 21px;
+	font-size: 18px;
 	letter-spacing: 0px;
 	padding:220px 0;
 	width:100%;
@@ -558,9 +558,10 @@ nav ul li{
 	text-align: center;
 }
 .viratimg h6{
+	position:absolute;
 	margin: 0;
-	font-size: 11px;
-	padding:190px o;
+	font-size: 10px;
+	padding:190px 0;
 	width:100%;
 	text-align: center;
 }
