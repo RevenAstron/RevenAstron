@@ -393,8 +393,9 @@ nav li{
 @media (max-width: 1050px){
 
 header{
-   background: url("../images/giphy.gif");
-background-size: cover;
+   background: none;
+   background-color: #3cded3;
+   background-size: cover;
     width: 100%;
     height: 716px;
 }
@@ -453,16 +454,16 @@ nav ul li{
 	background: #591365;
 }
 .opn{
-	font-size: 10px;
+	font-size: 8px;
 	font-weight: normal;
 	display: block;
-	height: 70px;
+	height:64px;
 	padding-top: 20px;
 	padding-left: 28px;
 }
 .home2 a{
 	font-size: 16px;
-	font-family:play,arial, sans-serif;
+	font-family:'Dancing Script', cursive;
 }
 .home2 a:hover{
 	color: violet;
@@ -477,7 +478,7 @@ nav ul li{
 .ra-btn span{
 	text-decoration: none;
 	display: block;
-	padding: 10px 34px 13px;
+	padding: 10px 33px 13px;
 }
 .text{
 	position: absolute;
@@ -490,7 +491,7 @@ nav ul li{
 }
 .text h1{
 	font-style: italic;
-	font-size: 47px;
+	font-size: 40px;
 	margin-left: 53px;
 	line-height: 47px;
 }
@@ -499,31 +500,31 @@ nav ul li{
 	display: block;
 	top: 100px;
 }
-.ice{
+/*.ice{
 	position: absolute;
 	display: block;
 	top: 540px;
 	left: 45px;
 	width: 10%;
-}
+}*/
 .text h2{
 	font-style: italic;
 	font-family:arial;
-	font-size: 8px;
-	margin: -7px 0 30px 53px;
+	font-size: 6px;
+	margin: -7px 0 30px 51px;
 	line-height: 10px;
 }.social{
 	z-index: 1;
 	right: 27px;
-	bottom: 39px;
+	bottom: 38px;
 	position: absolute;
 	color: #fff;
 }
 .social ul li{
-	margin-top: 8.5px;
+	margin-top: 6px;
 }
 .social a {
-	font-size: 14px;
+	font-size: 13px;
 	color: transparent;
 	background: linear-gradient(-30deg,black,gold);
 	-webkit-background-clip: text;
