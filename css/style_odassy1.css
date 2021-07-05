@@ -565,7 +565,7 @@ nav ul li{
 	position: absolute;
 	font-size: 2vh;
 	letter-spacing: 0px;
-	padding:200px 0;
+	padding:150px 0;
 	width:100%;
 	margin:0;
 	text-align: center;
@@ -574,7 +574,7 @@ nav ul li{
 	position:absolute;
 	margin: 0;
 	font-size: 1.3vh;
-	padding:170px 0;
+	padding:120px 0;
 	width:100%;
 	text-align: center;
 }
