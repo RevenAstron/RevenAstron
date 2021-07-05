@@ -588,6 +588,7 @@ nav ul li{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+        background-color: black;
 }
 .inmid{
 	width: 75%;
