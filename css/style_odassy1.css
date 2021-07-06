@@ -570,6 +570,7 @@ nav ul li{
 	width:100%;
 	margin:0;
 	text-align: center;
+        opacity:0;
 }
 .viratimg h6{
 	position:absolute;
@@ -578,6 +579,7 @@ nav ul li{
 	padding:120px 0;
 	width:100%;
 	text-align: center;
+        opacity:0;
 }
 .blacked{
         transform:translateY(-6px);
