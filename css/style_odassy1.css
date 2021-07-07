@@ -68,11 +68,11 @@ nav{
 	display: none;
 }
 #cbox:checked ~ .opn i{
-	transition: all .3s ease;
+	transition: all .4s ease;
     transform: rotate(180deg);
 }
 #cbox:checked ~ .home2{
-	transition: all .3s ease;
+	transition: all .4s ease;
     transform: translateY(-1%);
 }
 #cbox:not(:checked) ~ .home2{
