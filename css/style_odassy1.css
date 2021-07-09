@@ -440,9 +440,19 @@ nav ul li{
 	color: #fff;
 	font-family:'Red Rose', cursive;
 	position: fixed;
-	right: 60%;
+	right: 59%;
 	margin-top: -42.5px;
-
+	padding-left:90px;
+	padding-bottom: 20px;
+}
+.logo a{
+	font-family:'Red Rose', cursive;
+	text-decoration: none;
+	color: white;
+	position: absolute;
+	padding-left: 3px;
+	padding-right: 100px;
+	padding-bottom: 14px;
 }
 .home2{
 	transform: translateY(-100%);
@@ -483,13 +493,6 @@ nav ul li{
 }
 .ra-btn{
      display: none;
-}
-.logo a{
-	font-family:'Red Rose', cursive;
-	text-decoration: none;
-	color: white;
-	position: absolute;
-	padding-left: 3px;
 }
 .ra-btn span{
 	text-decoration: none;
