@@ -43,7 +43,7 @@ header{
 
 }
 .ra-btn span{
-	font-style:'Red Rose', cursive;
+	font-family:'Red Rose', cursive;
 	text-decoration: none;
 	display: block;
 	padding: 8px 22px;
@@ -440,7 +440,7 @@ nav ul li{
 	color: #fff;
 	font-family:'Red Rose', cursive;
 	position: fixed;
-	margin-left: 32.95%;
+	right: 60%;
 	margin-top: -42.5px;
 
 }
