@@ -247,11 +247,11 @@ nav li{
 
 /*Section3 "Virat" */
 .viratimg{
-	background: url("../images/virat.jpg");
+	/*background: url("../images/virat.jpg");
 	background-size: cover;
 	background-position: top;
 	background-position: center center;
-	background-attachment: fixed;
+	background-attachment: fixed;*/
 	padding:400px 0;
 	text-align: center;
 	color: white;
@@ -558,9 +558,12 @@ nav ul li{
 	height: 0px;
 	color: white;
 	padding:0;
+	display:none;
 }
 .virat{
 	display: block;
+	height:600px;
+	color: white;
 }
 .viratimg h3{
 	position: absolute;
