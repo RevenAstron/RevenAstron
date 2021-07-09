@@ -43,6 +43,7 @@ header{
 
 }
 .ra-btn span{
+	font-style:'Red Rose', cursive;
 	text-decoration: none;
 	display: block;
 	padding: 8px 22px;
@@ -426,7 +427,7 @@ nav ul li{
 	width: 100%;
 	padding:5% 0;
 	text-align: center;
-	margin-left: -5px;
+	margin-left: -9px;
 	padding-left: 0;
 	border-bottom: solid 0.1px rgba(200, 200, 200, 0.1);
 }
