@@ -557,7 +557,6 @@ nav ul li{
 }
 
 .viratimg{
-	display:none;
 	background: none;
 	height: 0px;
 	color: white;
@@ -565,10 +564,8 @@ nav ul li{
 }
 .virat{
 	display: block;
-	height: 500px;
-	color: black;
 }
-.virat h3{
+.viratimg h3{
 	position: absolute;
 	font-size: 2vh;
 	letter-spacing: 0px;
@@ -578,7 +575,7 @@ nav ul li{
 	text-align: center;
         opacity:0;
 }
-.virat h6{
+.viratimg h6{
 	position:absolute;
 	margin: 0;
 	font-size: 1.3vh;
